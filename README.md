@@ -1,10 +1,9 @@
 # Filip Troníček
-## My profile readme
 
-My own dictionary:
+## My own dictionary 📕:
 * FFO = Fífa Friendly Office (a place where I can work safely)
 
-## Subdomains
+## Subdomains 🔌
 My website has quite a few of them, here's a list of the public ones:
 * [thanks.trnck.dev](https://thanks.trnck.dev) - my thanks page to my sponsors
 * [download.trnck.dev](http://download.trnck.dev) - download some important assets, which I personally use
