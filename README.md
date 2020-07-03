@@ -19,6 +19,13 @@ I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitH
 ### Productivity utilities
 * Microsoft Office - I am a Certified [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url) and [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url) Expert
 
+### Languages
+|Language| Proficiency  
+|---|---|
+| English (duh)|C2 ([Efset certified](https://www.efset.org/cert/5P5Pp1))|
+| German|B1|
+| Czech | Native language
+
 ## My own dictionary 📕:
 * FFO = Fífa Friendly Office (a place where I can work safely)
 
