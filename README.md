@@ -26,6 +26,11 @@ I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitH
 | German|B1|
 | Czech | Native language
 
+## What I'm currently learning
+* TypeScript
+* React.js
+* Ruby
+
 ## My own dictionary 📕:
 * FFO = Fífa Friendly Office (a place where I can work safely)
 
