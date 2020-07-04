@@ -1,13 +1,13 @@
 # Filip Troníček
 
-## About me
+## About me 🧍
 I'm a 15-year-old web developer from the Czech Republic, who loves open source. I mainly code in Python and JavaScript, but I am always learning.
 I am currently working on a couple of open-source projects, including my own [Interclip](https://github.com/aperta-principium/Interclip), which is a tool that can be used to share links across devices. I also just started contributing to [Open Sauced](https://github.com/open-sauced/open-sauced), which is a site to manage your future open-source contributions.
 
 ### What I do
 I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitHub is free and open to everyone. I am really passionate about doing web development, it is in my opinion the best combination of logical programming and (sometimes) beautiful design.
 
-## My skills
+## My skills 📜
 ### Web technologies
 * JavaScript
 * HTML, CSS ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
