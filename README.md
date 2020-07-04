@@ -36,7 +36,9 @@ I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitH
 * Ruby
 
 ## My own dictionary 📕:
-* FFO = Fífa Friendly Office (a place where I can work safely)
+|Word / abreviation| Meaning | Note
+|---|---|---|
+| FFO | Fífa Friendly Office (a place where I can work safely) | Idea by @aellopos
 
 ## Website subdomains 🔌
 My website has quite a few of them, here's a list of the public ones:
