@@ -26,7 +26,7 @@ I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitH
 ### Languages
 |Language| Proficiency  
 |---|---|
-| English (duh)|C2 ([Efset certified](https://www.efset.org/cert/5P5Pp1))|
+| English (duh)|C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))|
 | German|B1|
 | Czech | Native language
 
