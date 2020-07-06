@@ -35,6 +35,12 @@ I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitH
 * React.js
 * Ruby
 
+## Projects I'm the most proud of
+|  Name          | Description  | Language | Repo |
+|-------------|----------|-----------|---------|          
+|  Interclip | A clipboard and file sharing tool  |   PHP   |  [aperta-principium/Interclip](https://s.trnck.dev/interclip-git)   |
+| Open Sauced   | 🍕 This is a project to identify your next open source contribution.  | JS / React.js  |   [open-sauced/open-sauced](https://s.trnck.dev/sauced-git)   |
+
 ## My own dictionary 📕:
 |Word / abreviation| Meaning | Note
 |---|---|---|
