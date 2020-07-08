@@ -9,12 +9,12 @@ I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitH
 
 ## My skills 📜
 ### Web technologies
-* JavaScript
+* JavaScript ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
 * HTML, CSS ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
 * SCSS
 * Node.js
 * Deno
-* WordPress
+* WordPress ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
 * PHP
 * MySQL
 ### Application Development
