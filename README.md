@@ -1,9 +1,14 @@
 # Filip Troníček
 
+<details>
+<summary>
+  
 ## About me 🧍
 I'm a 15-year-old web developer from the Czech Republic, who loves open source. I mainly code in Python and JavaScript, but I am always learning.
 I am currently working on a couple of open-source projects, including my own [Interclip](https://github.com/aperta-principium/Interclip), which is a tool that can be used to share links across devices. I also just started contributing to [Open Sauced](https://github.com/open-sauced/open-sauced), which is a site to manage your future open-source contributions.
 
+</summary>
+  
 ### What I do
 I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitHub is free and open to everyone. I am really passionate about doing web development, it is in my opinion the best combination of logical programming and (sometimes) beautiful design.
 
@@ -54,3 +59,4 @@ My website has quite a few of them, here's a list of the public ones:
 * [download.trnck.dev](http://download.trnck.dev) - download some important assets, which I personally use
 * [btc.trnck.dev](https://btc.trnck.dev) - track the price of Bitcoin - data from [filiptronicek/btc-tracker](https://github.com/filiptronicek/btc-tracker)
 * [qr.trnck.dev](https://qr.trnck.dev) - create a QR code in 2 seconds
+<details>
