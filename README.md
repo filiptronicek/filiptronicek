@@ -46,6 +46,11 @@ I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitH
 | gitpy |  A Python wrapper for git | Python | [filiptronicek/gitpy](https://s.trnck.dev/gitpy)
 | Dataset Creator |  Simple Flickr Image Scraper and compression script  | Python | [filiptronicek/dataset-creator](https://s.trnck.dev/a831c)
 
+## In the works
+Stuff that is looking forward to be shipped :shipit:
+| Name of project | Current State |
+|-----------------|---------------|
+| [GitHub Rank Action](https://github.com/filiptronicek/github-rank-action/) | Script working, action is not | 
 ## My own dictionary 📕:
 |Word / abreviation| Meaning | Note
 |---|---|---|
