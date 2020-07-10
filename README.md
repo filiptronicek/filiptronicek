@@ -48,9 +48,10 @@ I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitH
 
 ## In the works
 Stuff that is looking forward to be shipped :shipit:
-| Name of project | Current State |
-|-----------------|---------------|
-| [GitHub Rank Action](https://github.com/filiptronicek/github-rank-action/) | Script working, action is not | 
+| Name of project | Current State | Version |
+|-----------------|---------------|---------|
+| [GitHub Rank Action](https://github.com/filiptronicek/github-rank-action/) | Script working, action is not | v0.0.1
+| [Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.16.0](https://github.com/open-sauced/open-sauced/releases/tag/v0.16.0)
 ## My own dictionary 📕:
 |Word / abreviation| Meaning | Note
 |---|---|---|
