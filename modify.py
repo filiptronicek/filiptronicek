@@ -1,10 +1,10 @@
 import re
 
 filename = "README.md"
-patt = r'<a.*class="post".*>.*</a>'
+patt = r'<a.*class="post" href="https://blog.trnck.dev/">.*</a>'
 
 def write(rank, url, date):
-    with open(filename) as f:
+    with open(filename, encoding='utf8') as f:
         content = f.readlines()
     content = [x for x in content] 
     replaced = ""
