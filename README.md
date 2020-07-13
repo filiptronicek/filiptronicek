@@ -11,8 +11,7 @@ manage your future open-source contributions.
 ## Blog
 
 Latest blog post:
-<a class="post" href="https://blog.trnck.dev/hello-website-again/">A new
-website... again (published on 7)</a>
+<a class="post" href="https://blog.trnck.dev/hello-website-again/">Trying it out</a>
 
 <details>
 <summary>
