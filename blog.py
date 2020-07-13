@@ -1,12 +1,13 @@
 import requests
-from os import getenv
+from os import getenv, environ
 import datetime
-from dotenv import load_dotenv
 import re
 
 from modify import write
 
-load_dotenv()
+if environ.get('TOKEN') is None:
+    from dotenv import load_dotenv
+    load_dotenv()
 
 user = "filiptronicek"
 repo = "filiptronicek.github.io"
