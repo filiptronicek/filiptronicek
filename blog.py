@@ -16,7 +16,8 @@ user = "filiptronicek"
 repo = "filiptronicek.github.io"
 
 url = "https://api.github.com/repos/{}/{}/git/trees/master?recursive=1".format(
-    user, repo)
+    user, repo
+)
 headers = {"Authorization": getenv("TOKEN")}
 r = requests.get(url, headers=headers)
 res = r.json()
