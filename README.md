@@ -8,6 +8,8 @@ that can be used to share links across devices. I also just started contributing
 to [Open Sauced](https://github.com/open-sauced/open-sauced), which is a site to
 manage your future open-source contributions.
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=filiptronicek)
 ## Blog
 Latest blog post: <a class="post" href="https://blog.trnck.dev/hello-website-again/">A new website... again (published on July 3, 2020)</a>
 
