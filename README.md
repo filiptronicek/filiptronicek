@@ -101,4 +101,4 @@ My website has quite a few of them, here's a list of the public ones:
 - [btc.trnck.dev](https://btc.trnck.dev) - track the price of Bitcoin - data
   from [filiptronicek/btc-tracker](https://github.com/filiptronicek/btc-tracker)
 - [qr.trnck.dev](https://qr.trnck.dev) - create a QR code in 2 seconds
-<details>
+</details>
