@@ -77,13 +77,11 @@ development, it is in my opinion the best combination of logical programming and
 
 ## In the works
 
-Stuff that is looking forward to be shipped :shipit: | Name of project | Current
-State | Version | |-----------------|---------------|---------| |
-[GitHub Rank Action](https://github.com/filiptronicek/github-rank-action/) |
-Script working, action is not | v0.0.1 |
-[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and
-adding key features |
-[v0.16.0](https://github.com/open-sauced/open-sauced/releases/tag/v0.16.0)
+Stuff that is looking forward to be shipped :shipit: 
+| Name of project | Current State | Version |
+|-----------------|---------------|---------|
+|[GitHub Rank Action](https://github.com/filiptronicek/github-rank-action/) | Script working, action is not | v0.0.1 |
+|[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.16.0](https://github.com/open-sauced/open-sauced/releases/tag/v0.16.0) |
 
 ## My own dictionary 📕:
 
