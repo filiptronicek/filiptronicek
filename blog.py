@@ -2,6 +2,7 @@ import requests
 from os import getenv
 import datetime
 from dotenv import load_dotenv
+import re
 
 from modify import write
 
@@ -21,14 +22,14 @@ for file in res["tree"]:
     if "_posts/" in file["path"]:
         fileNm = file["path"].split("/")[-1]
         dateStr = fileNm[:10]
-        date_time_obj = datetime.datetime.strptime(dateStr, "%Y-%M-%d")
-        fmtTime = date_time_obj.strftime("%B %d, %Y")
+        date_time_obj = datetime.datetime.strptime(dateStr, "%Y-%m-%d")
+        fmtTime = date_time_obj.strftime(r"%B %-d, %Y")
         flUrl = f"https://raw.githubusercontent.com/filiptronicek/filiptronicek.github.io/master/_posts/{fileNm}"
         flReq = requests.get(flUrl).text
         if "title" in flReq.strip().split("\n")[1]:
-            title = flReq.strip().split("\n")[1]
+            title = (flReq.strip().split("\n")[1])[7:]
         elif "title" in flReq.strip().split("\n")[2]:
-            title = flReq.strip().split("\n")[2]
+            title = (flReq.strip().split("\n")[2])[7:]
         else:
             title = fileNm
         blogUrl = f"https://blog.trnck.dev/{fileNm[11:].replace('.md','/')}"
