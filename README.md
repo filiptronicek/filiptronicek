@@ -9,9 +9,7 @@ to [Open Sauced](https://github.com/open-sauced/open-sauced), which is a site to
 manage your future open-source contributions.
 
 ## Blog
-
-Latest blog post:
-<a class="post" href="https://blog.trnck.dev/hello-website-again/">Trying it out</a>
+Latest blog post: <a class="post" href="https://blog.trnck.dev/hello-website-again/">Testing...</a>
 
 <details>
 <summary>
