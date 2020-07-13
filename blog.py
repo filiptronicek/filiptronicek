@@ -5,16 +5,18 @@ import re
 
 from modify import write
 
-if environ.get('TOKEN') is None:
+if environ.get("TOKEN") is None:
     from dotenv import load_dotenv
+
     load_dotenv()
 
 user = "filiptronicek"
 repo = "filiptronicek.github.io"
 
 url = "https://api.github.com/repos/{}/{}/git/trees/master?recursive=1".format(
-    user, repo)
-headers = {'Authorization': getenv("TOKEN")}
+    user, repo
+)
+headers = {"Authorization": getenv("TOKEN")}
 r = requests.get(url, headers=headers)
 res = r.json()
 
