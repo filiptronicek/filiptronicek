@@ -1,8 +1,8 @@
-import requests
-from os import getenv, environ
 import datetime
 import re
+from os import environ, getenv
 
+import requests
 from modify import write
 
 if environ.get("TOKEN") is None:
