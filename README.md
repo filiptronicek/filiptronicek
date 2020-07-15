@@ -43,7 +43,7 @@ development, it is in my opinion the best combination of logical programming and
 
 ### Application Development
 
-- Python
+- Python [Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url)
 - C++ (sort of)
 
 ### Productivity utilities
