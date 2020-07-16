@@ -14,6 +14,8 @@ manage your future open-source contributions.
 * Latest blog post: <a class="post" href="https://blog.trnck.dev/hello-website-again/">A new website... again (published on July 3, 2020)</a>
 * Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
 script made by [@zhiiiyang](https://github.com/zhiiiyang/)
+
+</details>
 <summary>
   More stuff about me
 </summary>
