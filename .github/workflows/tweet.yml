@@ -1,7 +1,6 @@
 name: Build twitter image
 
 on:
-  push:
   repository_dispatch:
     types: [opened, deleted, tweet]
   schedule:
