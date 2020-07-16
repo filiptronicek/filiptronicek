@@ -10,7 +10,7 @@ manage your future open-source contributions.
 
 ## Quick overview
 * GitHub stats:  
- ![GitHub stats](https://readme.trnck.dev/api?username=filiptronicek) 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=filiptronicek&show_icons=true) 
 * Latest blog post: <a class="post" href="https://blog.trnck.dev/hello-website-again/">A new website... again (published on July 3, 2020)</a>
 * Latest tweet: ![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)
 script made by [@zhiiiyang](https://github.com/zhiiiyang/)
