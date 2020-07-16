@@ -23,4 +23,4 @@ jobs:
       uses: peter-evans/repository-dispatch@v1
       with:
         token: ${{ secrets.GH_TOKEN }}
-        event-type: my-event
+        event-type: tweet
