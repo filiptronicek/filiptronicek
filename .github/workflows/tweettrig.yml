@@ -19,11 +19,8 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-
-    - name: Workflow Dispatch
-      uses: benc-uk/workflow-dispatch@v1
+    - name: Repository Dispatch
+      uses: peter-evans/repository-dispatch@v1
       with:
-        # Name of workflow to run
-        workflow: tweet
-        # GitHub token with repo write access, can NOT use secrets.GITHUB_TOKEN, see readme
-        token: ${secrets.GH_TOKEN}
+        token: ${{ secrets.GH_TOKEN }}
+        event-type: my-event
