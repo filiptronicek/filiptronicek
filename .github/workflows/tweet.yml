@@ -3,7 +3,7 @@ name: Build twitter image
 on:
   push:
   repository_dispatch:
-    types: [tweet]
+    types: [opened, deleted, tweet]
   schedule:
     - cron:  '*/20 * * * *'
 
