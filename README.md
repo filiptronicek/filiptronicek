@@ -15,7 +15,7 @@ manage your future open-source contributions.
 * Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
 script made by [@zhiiiyang](https://github.com/zhiiiyang/)
 
-</details>
+<details>
 <summary>
   More stuff about me
 </summary>
