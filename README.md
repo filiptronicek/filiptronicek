@@ -68,6 +68,7 @@ development, it is in my opinion the best combination of logical programming and
 
 - TypeScript
 - React.js
+- React Native
 - Ruby
 
 ## Projects I'm the most proud of
