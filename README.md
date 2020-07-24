@@ -10,7 +10,14 @@ manage your future open-source contributions.
 
 ## Quick overview
 * GitHub stats:  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=filiptronicek&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=filiptronicek" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27" alt="My github stats" />
+</a>  
+
  (also from a project I'm contributing to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 * Latest blog post: <a class="post" href="https://blog.trnck.dev/hello-website-again/">GitHub profile READMEs and how to get the most out of them (published on July 16, 2020)</a>
 * Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
