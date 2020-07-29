@@ -19,7 +19,7 @@ manage your future open-source contributions.
 </a>  
 
  (also from a project I'm contributing to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-* Latest blog post: <a class="post" href="https://blog.trnck.dev/hello-website-again/">GitHub profile READMEs and how to get the most out of them (published on July 16, 2020)</a>
+* Latest blog post: <a class="post" href="https://blog.trnck.dev/hello-website-again/">Coding in the cloud (GitHub Codespaces vs. GitPod) (published on July 29, 2020)</a>
 * Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
 script made by [@zhiiiyang](https://github.com/zhiiiyang/)
 
