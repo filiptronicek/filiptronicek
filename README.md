@@ -37,6 +37,7 @@ development, it is in my opinion the best combination of logical programming and
 
 I also write a blog, here are some of my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 ## My skills 📜
