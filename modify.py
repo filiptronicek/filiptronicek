@@ -18,6 +18,7 @@ def write(title, url, date):
             modify = re.sub(r">.*<", f">{str(title)} (published on {date})<",
                             splitToModify)
             replaced += (c.split(splitToModify)[0]).split("<")[0] + modify
+            replaced = re.sub(r'\"https://blog.trnck.dev/.*\"', f"\"{url}\"", replaced)
         else:
             replaced += c
     with open(filename, "w", encoding="utf-8") as f:

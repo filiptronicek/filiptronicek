@@ -40,3 +40,4 @@ for file in res["tree"]:
         blogUrl = f"https://blog.trnck.dev/{fileNm[11:].replace('.md','/')}"
         posts.append({"time": fmtTime, "title": title, "url": blogUrl})
 write(posts[-1]["title"], posts[-1]["url"], posts[-1]["time"])
+print(posts[-1])
