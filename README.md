@@ -98,7 +98,7 @@ I also write a blog, here are some of my latest blog posts:
 Stuff that is looking forward to be shipped :shipit: 
 | Name of project | Current State | Version |
 |-----------------|---------------|---------|
-|[GitHub Rank Action](https://github.com/filiptronicek/github-rank-action/) | Script working, action is not | v0.0.1 |
+|[Interclip mobile](https://github.com/filiptronicek/iclip-mobile) | Shipping MVP | [v0.1.0](https://github.com/filiptronicek/iclip-mobile/releases/tag/v0.1.0) |
 |[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.17.0](https://github.com/open-sauced/open-sauced/releases/tag/v0.17.0) |
 
 ## My own dictionary 📕:
