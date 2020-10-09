@@ -4,7 +4,7 @@ on:
   repository_dispatch:
     types: [opened, deleted, tweet]
   schedule:
-    - cron:  '*/20 * * * *'
+    - cron:  '0 * * * *'
 
 jobs:
   build:
