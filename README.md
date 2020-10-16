@@ -44,7 +44,7 @@ development, it is in my opinion the best combination of logical programming and
 - HTML, CSS
   ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
 - SCSS
-- Node.js
+- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
 - Deno
 - WordPress
   ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
