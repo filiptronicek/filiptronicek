@@ -19,7 +19,7 @@ manage your future open-source contributions.
 </a>  
 
  (also from a project I'm contributing to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-* Latest blog post: <a class="post" href="https://blog.trnck.dev/terminal-tricks/">Perfecting the Windows Terminal (published on August 6, 2020)</a>
+* Latest blog post: <a class="post" href="https://blog.trnck.dev/cloud-storage/">'Cloud storage v2.0: the what and the how' (published on October 17, 2020)</a>
 * Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
 script made by [@zhiiiyang](https://github.com/zhiiiyang/)
 
