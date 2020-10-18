@@ -14,9 +14,10 @@ if environ.get("TOKEN") is None:
 
 user = "filiptronicek"
 repo = "blog"
+branch = "main"
 
-url = "https://api.github.com/repos/{}/{}/git/trees/main?recursive=1".format(
-    user, repo)
+url = "https://api.github.com/repos/{}/{}/git/trees/{}?recursive=1".format(
+    user, repo, branch)
 headers = {"Authorization": getenv("TOKEN")}
 r = requests.get(url, headers=headers)
 res = r.json()
@@ -29,7 +30,7 @@ for file in res["tree"]:
         dateStr = fileNm[:10]
         date_time_obj = datetime.datetime.strptime(dateStr, "%Y-%m-%d")
         fmtTime = date_time_obj.strftime(r"%B %-d, %Y")
-        flUrl = f"https://raw.githubusercontent.com/filiptronicek/filiptronicek.github.io/master/_posts/{fileNm}"
+        flUrl = f"https://raw.githubusercontent.com/{user}/{repo}/{branch}/_posts/{fileNm}"
         flReq = requests.get(flUrl).text
         if "title" in flReq.strip().split("\n")[1]:
             title = (flReq.strip().split("\n")[1])[7:]
