@@ -13,9 +13,9 @@ if environ.get("TOKEN") is None:
     load_dotenv()
 
 user = "filiptronicek"
-repo = "filiptronicek.github.io"
+repo = "blog"
 
-url = "https://api.github.com/repos/{}/{}/git/trees/master?recursive=1".format(
+url = "https://api.github.com/repos/{}/{}/git/trees/main?recursive=1".format(
     user, repo)
 headers = {"Authorization": getenv("TOKEN")}
 r = requests.get(url, headers=headers)
