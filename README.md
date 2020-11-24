@@ -93,8 +93,8 @@ development, it is in my opinion the best combination of logical programming and
 Stuff that is looking forward to be shipped :shipit: 
 | Name of project | Current State | Version |
 |-----------------|---------------|---------|
-|[Interclip mobile](https://github.com/filiptronicek/iclip-mobile) | Shipping MVP | [v0.1.0](https://github.com/filiptronicek/iclip-mobile/releases/tag/v0.1.0) |
-|[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.17.2](https://github.com/open-sauced/open-sauced/releases/tag/v0.17.2) |
+|[Interclip mobile](https://github.com/filiptronicek/iclip-mobile) | Shipping MVP | [v0.2.0](https://github.com/filiptronicek/iclip-mobile/releases/tag/v0.2.0) |
+|[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.18.2](https://github.com/open-sauced/open-sauced/releases/tag/v0.18.2) |
 | [Taskord mobile](https://github.com/filiptronicek/taskord-mobile/) | Trying to get to MVP | -not release yet-
 
 ## My own dictionary 📕:
