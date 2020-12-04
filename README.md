@@ -19,7 +19,7 @@ manage your future open-source contributions.
 </a>  
 
  (also from a project I'm contributing to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-* Latest blog post: <a class="post" href="https://blog.trnck.dev/backing-up-and-backing-down/">Backing up & backing down (published on October 29, 2020)</a>
+* Latest blog post: <a class="post" href="https://blog.trnck.dev/all-the-timely-matters/">All the time(ly) matters (published on December 4, 2020)</a>
 * Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
 script made by [@zhiiiyang](https://github.com/zhiiiyang/)
 
