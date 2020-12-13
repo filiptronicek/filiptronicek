@@ -23,6 +23,10 @@ manage your future open-source contributions.
 * Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
 script made by [@zhiiiyang](https://github.com/zhiiiyang/)
 
+Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
+* [Brian Douglas](https://github.com/bdougie) 
+* [Kyle Daigle](https://github.com/kdaigle)
+
 <details>
 <summary>
   More stuff about me
