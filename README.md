@@ -112,8 +112,6 @@ Stuff that is looking forward to be shipped :shipit:
 My website has quite a few of them, here's a list of the public ones:
 
 - [thanks.trnck.dev](https://thanks.trnck.dev) - my thanks page to my sponsors
-- [download.trnck.dev](http://download.trnck.dev) - download some important
-  assets, which I personally use
 - [status.trnck.dev](https://status.trnck.dev) - status page for my sites
 - [btc.trnck.dev](https://btc.trnck.dev) - track the price of Bitcoin - data
   from [filiptronicek/btc-tracker](https://github.com/filiptronicek/btc-tracker)
