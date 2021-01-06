@@ -99,7 +99,7 @@ Stuff that is looking forward to be shipped :shipit:
 |-----------------|---------------|---------|
 |[Interclip mobile](https://github.com/filiptronicek/iclip-mobile) | Shipping MVP | [v0.2.0](https://github.com/filiptronicek/iclip-mobile/releases/tag/v0.2.0) |
 |[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.18.2](https://github.com/open-sauced/open-sauced/releases/tag/v0.18.2) |
-| [Taskord mobile](https://github.com/filiptronicek/taskord-mobile/) | Trying to get to MVP | -not release yet-
+| [Taskord mobile](https://github.com/filiptronicek/taskord-mobile/) | Trying to get to MVP | -no release yet-
 
 ## My own dictionary 📕:
 
