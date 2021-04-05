@@ -45,6 +45,7 @@ development, it is in my opinion the best combination of logical programming and
 
 - JavaScript
   ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
+- TypeScript
 - HTML, CSS
   ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
 - SCSS
@@ -78,9 +79,9 @@ development, it is in my opinion the best combination of logical programming and
 
 ## What I'm currently learning 📚
 
-- TypeScript
 - React.js
 - React Native
+- Next.js
 - Ruby
 
 ## Projects I'm the most proud of
