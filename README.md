@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a 15-year-old web developer from the Czech Republic, who loves open source.
+I'm a 16-year-old web developer from the Czech Republic, who loves open source.
 I mainly code in Python and JavaScript, but I am always learning. I am currently
 working on a couple of open-source projects, including my own
 [Interclip](https://github.com/aperta-principium/Interclip), which is a tool
