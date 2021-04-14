@@ -55,6 +55,7 @@ development, it is in my opinion the best combination of logical programming and
   ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
 - PHP
 - MySQL
+- Microsoft Azure ([AZ 900 Certification](https://www.credly.com/badges/1da5ef87-dc8f-4aeb-8870-c19d0e020895/public_url))
 
 ### Application Development
 
