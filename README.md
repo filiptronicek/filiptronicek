@@ -100,7 +100,7 @@ Stuff that is looking forward to be shipped :shipit:
 | Name of project | Current State | Version |
 |-----------------|---------------|---------|
 |[Interclip mobile](https://github.com/filiptronicek/iclip-mobile) | Fixing production bugs | [v0.5.0](https://github.com/filiptronicek/iclip-mobile/releases/tag/v0.5.0) |
-|[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.18.5](https://github.com/open-sauced/open-sauced/releases/tag/v0.18.5) |
+|[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.19](https://github.com/open-sauced/open-sauced/releases/tag/v0.19) |
 | [Taskord mobile](https://github.com/filiptronicek/taskord-mobile/) | Trying to get to MVP | -no release yet-
 
 ## My own dictionary 📕:
