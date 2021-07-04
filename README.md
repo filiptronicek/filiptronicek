@@ -4,7 +4,7 @@ I'm a 16-year-old web developer from the Czech Republic, who loves open source.
 I mainly code in Python and JavaScript, but I am always learning. I am currently
 working on a couple of open-source projects, including my own
 [Interclip](https://github.com/aperta-principium/Interclip), which is a tool
-that can be used to share links across devices. I also just started contributing
+that can be used to share links across devices. I also am contributing
 to [Open Sauced](https://github.com/open-sauced/open-sauced), which is a site to
 manage your future open-source contributions.
 
