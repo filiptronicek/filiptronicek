@@ -20,8 +20,6 @@ manage your future open-source contributions.
 
  (also from a project I'm contributing to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 * Latest blog post: <a class="post" href="https://blog.trnck.dev/iclipdates/">On a date with Interclip (published on January 31, 2021)</a>
-* Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
-script made by [@zhiiiyang](https://github.com/zhiiiyang/)
 
 Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
 * [Brian Douglas](https://github.com/bdougie) 
