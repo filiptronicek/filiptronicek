@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a 16-year-old web developer from the Czech Republic, who loves open source, currently working at [Gitpod](https://gitpod.io/).
+I'm a web developer from the Czech Republic, who loves open source, and is currently working at [Gitpod](https://gitpod.io/).
 I mainly code in TypeScript, in 2020 I fell in love with Next.js, React, React Native, Svelte and so many other modern web frameworks. I am always learning. Currently I'm also
 working on a couple of open-source projects, including my own
 [Interclip](https://github.com/interclip/interclip), which is a tool
