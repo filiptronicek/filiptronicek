@@ -15,7 +15,7 @@ manage your future open-source contributions.
 </a>  
 
  (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-* Latest blog post: <a class="post" href="https://blog.trnck.dev/iclipdates/">On a date with Interclip (published on January 31, 2021)</a>
+* Latest blog post: <a class="post" href="https://blog.trnck.dev/farewell-intercliphp/">Farewell, IntercliPHP (published on February 25, 2022)</a>
 
 Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
 * [Brian Douglas](https://github.com/bdougie) 
