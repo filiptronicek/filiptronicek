@@ -18,7 +18,7 @@ I'm a software engineer from Czechia, hacking things together @ [Gitpod](https:/
 
 
  (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-- Latest blog post: <a class="post" href="https://blog.trnck.dev/365-gitpods/">"365 'podder days" (published on August 20, 2022)</a>
+- I write a [blog](https://blog.trnck.dev/)
 
 Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
 - [Kyle Daigle](https://github.com/kdaigle)
