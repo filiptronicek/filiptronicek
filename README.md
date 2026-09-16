@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a software engineer from Czechia, hacking things together @ [Ona](https://ona.com).
+I'm a Czechia software engineer hacking things together @ [OpenAI](https://openai.com).
 
 
 <details>
